@@ -1,0 +1,19 @@
+{
+  "name": "MOUSA - بولو يونيفورم لكل البراندات",
+  "short_name": "MOUSA",
+  "description": "موسى - متخصصين في تصنيع بولو يونيفورم احترافي لجميع الشركات والمصانع والقطاعات.",
+  "start_url": "/mousa-website/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

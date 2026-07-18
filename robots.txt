@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aldasas.github.io/mousa-website/sitemap.xml
